@@ -3,10 +3,8 @@
 
 ### Starting (M1-ARM64)
 
-```
 [Kafka Download](https://www.apache.org/dyn/closer.cgi?path=/kafka/3.2.0/kafka_2.13-3.2.0.tgz)
 
-```
 ```
 Start ZooKeeper Service
 
