@@ -27,6 +27,11 @@ bin/kafka-topics.sh --create --topic quickstart-events --bootstrap-server localh
 
 ```
 
+```
+Topic Lists 
+bin/kafka-topics.sh --list --bootstrap-server localhost:9092
+```
+
 
 
 ```
